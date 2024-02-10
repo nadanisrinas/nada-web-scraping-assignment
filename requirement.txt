@@ -1,0 +1,7 @@
+selenium==4.17.2
+pytest
+flake8
+pandas 
+psycopg2
+requests
+python-dotenv
