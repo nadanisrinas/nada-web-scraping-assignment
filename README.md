@@ -57,3 +57,7 @@
 
 - [Python](https://www.python.org/) - The programming language used
 - [pytest](https://pytest.org/) - Testing framework used
+
+## Docs 
+- [github graphql](https://docs.github.com/en/graphql/guides/forming-calls-with-graphql) - github open source graphql
+- [selenium](https://github.com/SeleniumHQ/selenium)
