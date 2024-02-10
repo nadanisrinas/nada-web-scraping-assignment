@@ -7,8 +7,6 @@
   
   ### Installing
   
-  A step by step series of examples that tell you how to get a development env running
-  
   1. Clone the repository:
   
      ```sh
@@ -21,8 +19,6 @@
      ```
 
 ### Running Tests
-
-Explain how to run the automated tests for this system
 
 1. Navigate to the test directory:
 
@@ -37,8 +33,6 @@ Explain how to run the automated tests for this system
    ```
 
 ### Running the Application
-
-Explain how to run the application
 
 1. Navigate to the src directory:
 
