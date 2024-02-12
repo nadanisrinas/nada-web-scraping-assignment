@@ -53,6 +53,11 @@
    python test_graphql.py
    ```
 
+4. Add to .env file outside src folder  
+   ```sh
+   GITHUB_TOKEN={YOUR_TOKEN_GOES_HERE}
+   ```
+
 ## Built With
 
 - [Python](https://www.python.org/) - The programming language used
